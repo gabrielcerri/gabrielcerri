@@ -6,6 +6,9 @@
 <a href="https://twitter.com/GabiCerri6">
   <img align="left" alt="Gabriel Cerri  | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
+<a href="https://linkedin.com/in/gabrielcerri">
+  <img align="left" alt="Gabriel Cerri | Linkedin" width="21px" src="https://www.flaticon.es/svg/vstatic/svg/174/174857.svg?token=exp=1620417111~hmac=3dc6fc890a7808218fd423e713ef4f9f" />
+</a>
 
 
 <br />
