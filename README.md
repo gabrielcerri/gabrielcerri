@@ -9,9 +9,7 @@
 <a href="https://linkedin.com/in/gabrielcerri">
   <img align="left" alt="Gabriel Cerri | Linkedin" width="21px" src="https://www.flaticon.es/svg/vstatic/svg/174/174857.svg?token=exp=1620417111~hmac=3dc6fc890a7808218fd423e713ef4f9f" />
 </a>
-<a href="">
-  <img align="left"  width="21px" src="https://www.flaticon.es/svg/vstatic/svg/281/281769.svg?token=exp=1620418350~hmac=97da4f0115fd113217520427076f4350" />
-</a>
+
 
 
 <br />
