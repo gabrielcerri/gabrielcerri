@@ -7,7 +7,7 @@
   <img align="left" alt="Gabriel Cerri  | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/gabrielcerri">
-  <img align="left" alt="Gabriel Cerri | Linkedin" width="21px" src="https://www.flaticon.es/svg/vstatic/svg/174/174857.svg?token=exp=1620417111~hmac=3dc6fc890a7808218fd423e713ef4f9f" />
+  <img align="left" alt="Gabriel Cerri | Linkedin" width="21px" src="https://img-premium.flaticon.com/png/512/174/174857.png?token=exp=1621898439~hmac=229eb43ad7c1d028e5a1876ea3717d9f" />
 </a>
 
 
