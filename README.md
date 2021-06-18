@@ -8,7 +8,7 @@
 </a>
 
 <a href="https://linkedin.com/in/gabrielcerri">
-  <img align="left" alt="Gabriel Cerri | Linkedin" width="21px" src="https://img-premium.flaticon.com/png/512/174/174857.png?token=exp=1623523188~hmac=ea93697e3769daac1a569239105ab828" />
+  <img align="left" alt="Gabriel Cerri | Linkedin" width="21px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
 </a>
 
 
