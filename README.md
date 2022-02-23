@@ -19,7 +19,8 @@
 
 ### Which are my tools? :wrench::wrench:
 
-* React 
+* React
+* SQL 
 * Javascript
 * HTML
 * CSS
