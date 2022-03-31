@@ -3,13 +3,6 @@
 #### My name is Gabriel Cerri, I'm a passionate front-end developer from Argentina eager to continue learning and knowing about this world which i'm really interested in
 
 
-<a href="https://twitter.com/GabiCerri6">
-  <img align="left" alt="Gabriel Cerri  | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-
-<a href="https://linkedin.com/in/gabrielcerri">
-  <img align="left" alt="Gabriel Cerri | Linkedin" width="21px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
-</a>
 
 
 
